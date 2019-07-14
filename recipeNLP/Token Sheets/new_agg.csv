@@ -1,0 +1,1817 @@
+,Term,Occurrence,Word count,Document,equivalence_class
+0,double-walled oven pot,1,3,Bain Marie ,double-walled oven pot
+1,bain-marie,4,1,Bain Marie ,bain-marie
+2,water,4,1,Bain Marie ,water
+3,water,1,1,Baking ,water
+4,water,3,1,Blanching ,water
+5,water,22,1,Boiling ,water
+6,water,6,1,Clay Pot ,water
+7,water,6,1,Deep Frying ,water
+8,water,1,1,Frying ,water
+9,water,6,1,Poaching ,water
+10,water,3,1,Pressure Cooking ,water
+11,water,1,1,Sauteing ,water
+12,water,1,1,Scalding ,water
+13,water,1,1,Simmering ,water
+14,water,5,1,Smoking ,water
+15,water,3,1,Steaming ,water
+16,oven-proof pots,1,2,Bain Marie ,oven-proof pots
+17,cook custard,1,2,Bain Marie ,cook custard
+18,pot,3,1,Bain Marie ,pot
+19,pot,3,1,Clay Pot ,pot
+20,pot,1,1,Pressure Cooking ,pot
+21,pot,1,1,Scalding ,pot
+22,pot,1,1,Sous Vide ,pot
+23,oven temperature,1,2,Bain Marie ,oven temperature
+24,oven temperature,1,2,Clay Pot ,oven temperature
+25,construction limits,1,2,Bain Marie ,construction limits
+26,use,2,1,Bain Marie ,use
+27,use,1,1,Baking ,use
+28,use,2,1,Basting ,use
+29,use,1,1,Blanching ,use
+30,use,2,1,Boiling ,use
+31,use,4,1,Cockaigne ,use
+32,use,18,1,Deep Frying ,use
+33,use,2,1,Grilling ,use
+34,use,2,1,Scalding ,use
+35,use,1,1,Simmering ,use
+36,use,3,1,Smoking ,use
+37,use,1,1,Stewing ,use
+38,use,1,1,Stir Frying ,use
+39,boilingpoint,1,1,Bain Marie ,boilingpoint
+40,temperature,1,1,Bain Marie ,temperature
+41,temperature,4,1,Boiling ,temperature
+42,temperature,3,1,Cockaigne ,temperature
+43,temperature,3,1,Deep Frying ,temperature
+44,temperature,1,1,Deglazing ,temperature
+45,temperature,2,1,Grilling ,temperature
+46,temperature,2,1,Poaching ,temperature
+47,temperature,3,1,Pressure Cooking ,temperature
+48,temperature,2,1,Roasting ,temperature
+49,temperature,1,1,Roasting ,temperature
+50,temperature,3,1,Scalding ,temperature
+51,temperature,3,1,Simmering ,temperature
+52,temperature,1,1,Smoking ,temperature
+53,temperature,4,1,Sous Vide ,temperature
+54,temperature,1,1,Stewing ,temperature
+55,temperature,3,1,Tempering ,temperature
+56,edge,1,1,Bain Marie ,edge
+57,edge,1,1,Deep Frying ,edge
+58,edge,1,1,Roasting ,edge
+59,oven,1,1,Bain Marie ,oven
+60,oven,2,1,Baking ,oven
+61,oven,1,1,Clay Pot ,oven
+62,oven,1,1,Grilling ,oven
+63,oven,1,1,Roasting ,oven
+64,oven,1,1,Steaming ,oven
+65,oven,1,1,Stewing ,oven
+66,oven,1,1,Stir Frying ,oven
+67,baking,1,1,Bain Marie ,baking
+68,baking,1,1,Bain Marie ,baking
+69,baking,2,1,Baking ,baking
+70,baking,2,1,Baking ,baking
+71,lid,1,1,Bain Marie ,lid
+72,lid,5,1,Cockaigne ,lid
+73,lid,1,1,Pressure Cooking ,lid
+74,lid,1,1,Scalding ,lid
+75,lid,1,1,Smoking ,lid
+76,lid,2,1,Stewing ,lid
+77,side,1,1,Bain Marie ,side
+78,side,1,1,Cockaigne ,side
+79,side,1,1,Grilling ,side
+80,walls,1,1,Bain Marie ,walls
+81,walls,1,1,Clay Pot ,walls
+82,crusting,1,1,Bain Marie ,crusting
+83,device,1,1,Bain Marie ,device
+84,device,1,1,Grilling ,device
+85,double-boiler,1,1,Bain Marie ,double-boiler
+86,cooktop,1,1,Bain Marie ,cooktop
+87,moisture,4,1,Baking ,moisture
+88,moisture,1,1,Clay Pot ,moisture
+89,moisture,1,1,Frying ,moisture
+90,moisture,4,1,Roasting ,moisture
+91,moisture,1,1,Smoking ,moisture
+92,maillard reaction,1,2,Baking ,maillard reaction
+93,maillard reaction,1,2,Deglazing ,maillard reaction
+94,maillard reaction,1,2,Grilling ,maillard reaction
+95,egg wash,1,2,Baking ,egg wash
+96,egg wash,1,2,Deep Frying ,egg wash
+97,roasting,3,1,Baking ,roasting
+98,roasting,1,1,Clay Pot ,roasting
+99,roasting,1,1,Deep Frying ,roasting
+100,roasting,1,1,Roasting ,roasting
+101,roasting,1,1,Roasting ,roasting
+102,cooking food,1,2,Baking ,cooking food
+103,cooking food,1,2,Clay Pot ,cooking food
+104,cooking food,1,2,Sauteing ,cooking food
+105,cooking food,1,2,Stewing ,cooking food
+106,food,3,1,Baking ,food
+107,food,3,1,Basting ,food
+108,food,3,1,Blanching ,food
+109,food,3,1,Boiling ,food
+110,food,4,1,Clay Pot ,food
+111,food,31,1,Deep Frying ,food
+112,food,5,1,Frying ,food
+113,food,26,1,Grilling ,food
+114,food,1,1,Poaching ,food
+115,food,1,1,Pressure Cooking ,food
+116,food,1,1,Roasting ,food
+117,food,3,1,Sauteing ,food
+118,food,2,1,Simmering ,food
+119,food,6,1,Smoking ,food
+120,food,2,1,Sous Vide ,food
+121,food,5,1,Steaming ,food
+122,food,4,1,Stewing ,food
+123,food,1,1,Stir Frying ,food
+124,baking causes,1,2,Baking ,baking causes
+125,foods,2,1,Baking ,food
+126,foods,5,1,Boiling ,food
+127,foods,6,1,Deep Frying ,food
+128,foods,3,1,Grilling ,food
+129,foods,2,1,Poaching ,food
+130,foods,1,1,Sauteing ,food
+131,foods,1,1,Simmering ,food
+132,foods,1,1,Smoking ,food
+133,foods,1,1,Sous Vide ,food
+134,foods,1,1,Steaming ,food
+135,foods,1,1,Stewing ,food
+136,vegetables,2,1,Baking ,vegetable
+137,vegetables,3,1,Blanching ,vegetable
+138,vegetables,1,1,Blanching ,vegetable
+139,vegetables,2,1,Boiling ,vegetable
+140,vegetables,1,1,Boiling ,vegetable
+141,vegetables,2,1,Deep Frying ,vegetable
+142,vegetables,1,1,Deglazing ,vegetable
+143,vegetables,2,1,Grilling ,vegetable
+144,vegetables,1,1,Roasting ,vegetable
+145,vegetables,2,1,Smoking ,vegetable
+146,vegetables,1,1,Steaming ,vegetable
+147,vegetables,2,1,Stewing ,vegetable
+148,vegetables,2,1,Stir Frying ,vegetable
+149,pastries,2,1,Baking ,pastries
+150,breads,2,1,Baking ,bread
+151,heat,2,1,Baking ,heat
+152,heat,3,1,Boiling ,heat
+153,heat,4,1,Clay Pot ,heat
+154,heat,4,1,Cockaigne ,heat
+155,heat,1,1,Deep Frying ,heat
+156,heat,2,1,Deglazing ,heat
+157,heat,10,1,Grilling ,heat
+158,heat,1,1,Poaching ,heat
+159,heat,1,1,Scalding ,heat
+160,heat,1,1,Simmering ,heat
+161,heat,4,1,Smoking ,heat
+162,heat,1,1,Stewing ,heat
+163,heat,6,1,Stir Frying ,heat
+164,heat,1,1,Stir Frying ,heat
+165,herbs,1,1,Baking ,herbs
+166,herbs,1,1,Deglazing ,herbs
+167,herbs,2,1,Smoking ,herbs
+168,types,1,1,Baking ,types
+169,types,1,1,Frying ,types
+170,types,1,1,Grilling ,types
+171,types,1,1,Smoking ,types
+172,layer,1,1,Baking ,layer
+173,butter,1,1,Baking ,butter
+174,butter,2,1,Cockaigne ,butter
+175,butter,2,1,Deglazing ,butter
+176,butter,1,1,Shirring ,butter
+177,butter,2,1,Stewing ,butter
+178,oil,1,1,Baking ,oil
+179,oil,1,1,Clay Pot ,oil
+180,oil,1,1,Cockaigne ,oil
+181,oil,52,1,Deep Frying ,oil
+182,oil,1,1,Deep Frying ,oil
+183,oil,4,1,Frying ,oil
+184,oil,1,1,Grilling ,oil
+185,oil,4,1,Sauteing ,oil
+186,oil,1,1,Smoking ,oil
+187,oil,3,1,Stir Frying ,oil
+188,oil,1,1,Tempering ,oil
+189,case,1,1,Baking ,case
+190,case,1,1,Cockaigne ,case
+191,case,5,1,Deep Frying ,case
+192,case,1,1,Grilling ,case
+193,loss,1,1,Baking ,loss
+194,loss,2,1,Boiling ,loss
+195,loss,1,1,Roasting ,loss
+196,loss,1,1,Steaming ,loss
+197,outcome,1,1,Baking ,outcome
+198,outcome,1,1,Sauteing ,outcome
+199,flavor,1,1,Baking ,flavor
+200,flavor,1,1,Basting ,flavor
+201,flavor,1,1,Blanching ,flavor
+202,flavor,2,1,Boiling ,flavor
+203,flavor,1,1,Simmering ,flavor
+204,flavor,8,1,Smoking ,flavor
+205,amount,1,1,Baking ,amount
+206,amount,1,1,Boiling ,amount
+207,amount,1,1,Deep Frying ,amount
+208,amount,1,1,Deglazing ,amount
+209,amount,1,1,Poaching ,amount
+210,amount,3,1,Sauteing ,amount
+211,amount,1,1,Stewing ,amount
+212,broth,1,1,Baking ,broth
+213,broth,1,1,Poaching ,broth
+214,bottom,1,1,Baking ,bottom
+215,bottom,1,1,Boiling ,bottom
+216,bottom,2,1,Cockaigne ,bottom
+217,bottom,2,1,Deglazing ,bottom
+218,bottom,1,1,Poaching ,bottom
+219,bottom,1,1,Sauteing ,bottom
+220,bottom,1,1,Scalding ,bottom
+221,bottom,3,1,Smoking ,bottom
+222,bottom,1,1,Steaming ,bottom
+223,pan,1,1,Baking ,pan
+224,pan,1,1,Basting ,pan
+225,pan,4,1,Cockaigne ,pan
+226,pan,1,1,Deep Frying ,pan
+227,pan,4,1,Deglazing ,pan
+228,pan,1,1,Frying ,pan
+229,pan,1,1,Frying ,pan
+230,pan,1,1,Poaching ,pan
+231,pan,7,1,Sauteing ,pan
+232,pan,3,1,Scalding ,pan
+233,pan,2,1,Smoking ,pan
+234,pan,1,1,Sous Vide ,pan
+235,pan,4,1,Stir Frying ,pan
+236,example,1,1,Baking ,example
+237,example,1,1,Grilling ,example
+238,example,1,1,Pressure Cooking ,example
+239,example,1,1,Simmering ,example
+240,example,1,1,Sous Vide ,example
+241,advantage,1,1,Baking ,advantage
+242,advantage,1,1,Smoking ,advantage
+243,situations,1,1,Baking ,situations
+244,taste,1,1,Baking ,taste
+245,taste,1,1,Boiling ,taste
+246,taste,1,1,Deep Frying ,taste
+247,taste,1,1,Scalding ,taste
+248,meats,1,1,Baking ,meats
+249,meats,3,1,Grilling ,meats
+250,meats,1,1,Roasting ,meats
+251,meats,1,1,Sauteing ,meats
+252,meats,5,1,Smoking ,meats
+253,meats,1,1,Smoking ,meats
+254,meats,1,1,Stewing ,meats
+255,terms,1,1,Baking ,term
+256,terms,1,1,Stewing ,term
+257,interchangeably,1,1,Baking ,interchangeably
+258,baked-goods,1,1,Baking ,baked-goods
+259,appearance,1,1,Baking ,appearance
+260,appearance,1,1,Smoking ,appearance
+261,caramelization,1,1,Baking ,caramelization
+262,caramelization,1,1,Deglazing ,caramelization
+263,cakes,1,1,Baking ,cake
+264,cakes,1,1,Grilling ,cake
+265,sugars,1,1,Baking ,sugar
+266,result,1,1,Baking ,result
+267,result,1,1,Basting ,result
+268,result,1,1,Blanching ,result
+269,result,1,1,Boiling ,result
+270,result,2,1,Grilling ,result
+271,result,1,1,Sous Vide ,result
+272,result,1,1,Stewing ,result
+273,result,1,1,Stir Frying ,result
+274,cultures,1,1,Baking ,cultures
+275,misconceptions,1,1,Baking ,misconceptions
+276,process,1,1,Baking ,process
+277,process,2,1,Boiling ,process
+278,process,1,1,Sauteing ,process
+279,process,1,1,Scalding ,process
+280,process,1,1,Simmering ,process
+281,process,2,1,Smoking ,process
+282,process,2,1,Stewing ,process
+283,process,3,1,Tempering ,process
+284,time,1,1,Baking ,time
+285,time,1,1,Blanching ,time
+286,time,1,1,Boiling ,time
+287,time,2,1,Cockaigne ,time
+288,time,3,1,Deep Frying ,time
+289,time,1,1,Grilling ,time
+290,time,1,1,Pressure Cooking ,time
+291,time,2,1,Sauteing ,time
+292,time,2,1,Simmering ,time
+293,time,2,1,Smoking ,time
+294,time,2,1,Sous Vide ,time
+295,time,1,1,Steaming ,time
+296,item,1,1,Baking ,item
+297,steam,1,1,Baking ,steam
+298,steam,2,1,Boiling ,steam
+299,steam,2,1,Clay Pot ,steam
+300,steam,1,1,Deep Frying ,steam
+301,steam,1,1,Pressure Cooking ,steam
+302,steam,1,1,Sauteing ,steam
+303,steam,1,1,Scalding ,steam
+304,steam,2,1,Steaming ,steam
+305,meat,3,1,Basting ,meat
+306,meat,1,1,Blanching ,meat
+307,meat,2,1,Boiling ,meat
+308,meat,1,1,Deep Frying ,meat
+309,meat,3,1,Deglazing ,meat
+310,meat,5,1,Grilling ,meat
+311,meat,3,1,Roasting ,meat
+312,meat,2,1,Sauteing ,meat
+313,meat,1,1,Simmering ,meat
+314,meat,2,1,Smoking ,meat
+315,meat,7,1,Stewing ,meat
+316,meat,2,1,Stir Frying ,meat
+317,cooking process,1,2,Basting ,cooking process
+318,cooking process,2,2,Blanching ,cooking process
+319,cooking process,1,2,Boiling ,cooking process
+320,cooking process,1,2,Clay Pot ,cooking process
+321,cooking process,1,2,Frying ,cooking process
+322,cooking process,1,2,Steaming ,cooking process
+323,basting,2,1,Basting ,basting
+324,cooking,2,1,Basting ,cooking
+325,cooking,2,1,Boiling ,cooking
+326,cooking,1,1,Clay Pot ,cooking
+327,cooking,3,1,Cockaigne ,cooking
+328,cooking,1,1,Deep Frying ,cooking
+329,cooking,2,1,Frying ,cooking
+330,cooking,9,1,Grilling ,cooking
+331,cooking,5,1,Poaching ,cooking
+332,cooking,3,1,Pressure Cooking ,cooking
+333,cooking,2,1,Sauteing ,cooking
+334,cooking,1,1,Scalding ,cooking
+335,cooking,4,1,Simmering ,cooking
+336,cooking,3,1,Smoking ,cooking
+337,cooking,2,1,Sous Vide ,cooking
+338,cooking,2,1,Steaming ,cooking
+339,cooking,5,1,Stewing ,cooking
+340,cooking,2,1,Stir Frying ,cooking
+341,color,2,1,Basting ,color
+342,color,2,1,Blanching ,color
+343,color,2,1,Boiling ,color
+344,kitchen,1,1,Basting ,kitchen
+345,kitchen,1,1,Blanching ,kitchen
+346,kitchen,1,1,Boiling ,kitchen
+347,scoop,1,1,Basting ,scoop
+348,scoop,1,1,Blanching ,scoop
+349,scoop,1,1,Boiling ,scoop
+350,baster,1,1,Basting ,baster
+351,baster,1,1,Blanching ,baster
+352,baster,1,1,Boiling ,baster
+353,spoon,1,1,Basting ,spoon
+354,spoon,1,1,Blanching ,spoon
+355,spoon,1,1,Boiling ,spoon
+356,spoon,2,1,Poaching ,spoon
+357,tool,1,1,Basting ,tool
+358,tool,1,1,Blanching ,tool
+359,tool,1,1,Boiling ,tool
+360,tool,1,1,Deep Frying ,tool
+361,baste,1,1,Basting ,baste
+362,baste,1,1,Blanching ,baste
+363,baste,1,1,Boiling ,baste
+364,method,1,1,Basting ,method
+365,method,1,1,Boiling ,method
+366,method,1,1,Deglazing ,method
+367,method,1,1,Frying ,method
+368,method,1,1,Grilling ,method
+369,method,1,1,Poaching ,method
+370,method,1,1,Pressure Cooking ,method
+371,method,3,1,Simmering ,method
+372,method,2,1,Smoking ,method
+373,method,2,1,Sous Vide ,method
+374,method,2,1,Stewing ,method
+375,doing,1,1,Basting ,doing
+376,anything,1,1,Basting ,anything
+377,anything,1,1,Smoking ,anything
+378,flavour,1,1,Basting ,flavor
+379,flavour,1,1,Blanching ,flavor
+380,flavour,1,1,Boiling ,flavor
+381,flavour,1,1,Deglazing ,flavor
+382,flavour,2,1,Grilling ,flavor
+383,flavour,1,1,Sauteing ,flavor
+384,flavour,2,1,Smoking ,flavor
+385,flavour,1,1,Steaming ,flavor
+386,flavour,1,1,Stewing ,flavor
+387,blanching,4,1,Blanching ,blanching
+388,blanching,2,1,Boiling ,blanching
+389,blanch vegetables,1,2,Blanching ,blanch vegetables
+390,blanch vegetables,1,2,Boiling ,blanch vegetables
+391,certain vegetables,1,2,Blanching ,certain vegetables
+392,certain vegetables,1,2,Boiling ,certain vegetables
+393,food briefly,1,2,Blanching ,food briefly
+394,food briefly,1,2,Boiling ,food briefly
+395,cooking technique,1,2,Blanching ,cooking technique
+396,cooking technique,1,2,Clay Pot ,cooking technique
+397,cooking technique,1,2,Deglazing ,cooking technique
+398,cooking technique,1,2,Grilling ,cooking technique
+399,enzyme action,1,2,Blanching ,enzyme action
+400,enzyme action,1,2,Boiling ,enzyme action
+401,causes foods,1,2,Blanching ,causes foods
+402,causes foods,1,2,Boiling ,causes foods
+403,ice water,1,2,Blanching ,ice water
+404,blanched,2,1,Blanching ,blanched
+405,blanched,2,1,Boiling ,blanched
+406,blanched,1,1,Stewing ,blanched
+407,salt,1,1,Blanching ,salt
+408,salt,1,1,Boiling ,salt
+409,salt,1,1,Clay Pot ,salt
+410,salt,1,1,Cockaigne ,salt
+411,salt,5,1,Smoking ,salt
+412,way,1,1,Blanching ,way
+413,way,1,1,Boiling ,way
+414,way,1,1,Cockaigne ,way
+415,way,1,1,Deep Frying ,way
+416,way,2,1,Frying ,way
+417,way,1,1,Simmering ,way
+418,way,2,1,Sous Vide ,way
+419,way,1,1,Steaming ,way
+420,way,1,1,Stir Frying ,way
+421,stir-fried,1,1,Blanching ,stir-fried
+422,stir-fried,1,1,Boiling ,stir-fried
+423,parboiling,1,1,Blanching ,parboiling
+424,parboiling,2,1,Boiling ,parboiling
+425,parboiling,1,1,Deep Frying ,parboiling
+426,fruits,1,1,Blanching ,fruits
+427,fruits,1,1,Boiling ,fruits
+428,fruits,1,1,Poaching ,fruits
+429,word,1,1,Blanching ,word
+430,value,1,1,Blanching ,value
+431,value,1,1,Boiling ,value
+432,canning,1,1,Blanching ,canning
+433,canning,1,1,Boiling ,canning
+434,almonds,1,1,Blanching ,almonds
+435,almonds,1,1,Boiling ,almonds
+436,tomatoes,1,1,Blanching ,tomatoes
+437,tomatoes,1,1,Boiling ,tomatoes
+438,tomatoes,1,1,Grilling ,tomatoes
+439,skins,1,1,Blanching ,skins
+440,skins,1,1,Boiling ,skins
+441,colors,1,1,Blanching ,color
+442,broccoli,1,1,Blanching ,broccoli
+443,something,1,1,Blanching ,something
+444,something,1,1,Tempering ,something
+445,surface,5,1,Boiling ,surface
+446,surface,8,1,Grilling ,surface
+447,surface,1,1,Sauteing ,surface
+448,surface,1,1,Sous Vide ,surface
+449,surface,1,1,Steaming ,surface
+450,point,4,1,Boiling ,point
+451,point,2,1,Deep Frying ,point
+452,point,1,1,Grilling ,point
+453,point,3,1,Simmering ,point
+454,effects boiling,1,2,Boiling ,effects boiling
+455,wastes fuel,1,2,Boiling ,wastes fuel
+456,ones form,1,2,Boiling ,ones form
+457,bubbles increase,1,2,Boiling ,bubbles increase
+458,rise,3,1,Boiling ,rise
+459,rise,1,1,Pressure Cooking ,rise
+460,rise,1,1,Scalding ,rise
+461,egg beater,1,2,Boiling ,egg beater
+462,pork ribs,1,2,Boiling ,pork ribs
+463,boiled water,1,2,Boiling ,boiled water
+464,reason syrups,1,2,Boiling ,reason syrups
+465,cook foods,1,2,Boiling ,cook foods
+466,cook foods,1,2,Simmering ,cook foods
+467,health purposes,1,2,Boiling ,health purposes
+468,many recipes,1,2,Boiling ,many recipes
+469,cooking foods,1,2,Boiling ,cooking foods
+470,air,2,1,Boiling ,air
+471,air,1,1,Grilling ,air
+472,air,1,1,Smoking ,air
+473,quantity,2,1,Boiling ,quantity
+474,quantity,1,1,Sauteing ,quantity
+475,quantity,1,1,Tempering ,quantity
+476,work,2,1,Boiling ,work
+477,work,1,1,Cockaigne ,work
+478,bubbles,2,1,Boiling ,bubbles
+479,bubbles,1,1,Scalding ,bubbles
+480,place,2,1,Boiling ,place
+481,place,1,1,Cockaigne ,place
+482,place,1,1,Sauteing ,place
+483,place,1,1,Scalding ,place
+484,place,6,1,Smoking ,place
+485,pressure,2,1,Boiling ,pressure
+486,pressure,7,1,Pressure Cooking ,pressure
+487,flavors,1,1,Boiling ,flavors
+488,flavors,1,1,Poaching ,flavors
+489,flavors,1,1,Roasting ,flavors
+490,flavors,2,1,Scalding ,flavors
+491,flavors,1,1,Smoking ,flavors
+492,germs,1,1,Boiling ,germs
+493,change,1,1,Boiling ,change
+494,change,1,1,Deep Frying ,change
+495,jar,1,1,Boiling ,jar
+496,jar,1,1,Cockaigne ,jar
+497,bottle,1,1,Boiling ,bottle
+498,whisk,1,1,Boiling ,whisk
+499,boiling,1,1,Boiling ,boiling
+500,saucepan,1,1,Boiling ,saucepan
+501,pieces,1,1,Boiling ,pieces
+502,pieces,2,1,Deep Frying ,pieces
+503,pieces,1,1,Grilling ,pieces
+504,pieces,1,1,Sauteing ,pieces
+505,pieces,1,1,Stewing ,pieces
+506,size,1,1,Boiling ,size
+507,size,2,1,Smoking ,size
+508,cellulose,1,1,Boiling ,cellulose
+509,tissues,1,1,Boiling ,tissues
+510,fiber,1,1,Boiling ,fiber
+511,fiber,1,1,Simmering ,fiber
+512,eggs,1,1,Boiling ,egg
+513,eggs,3,1,Poaching ,egg
+514,eggs,2,1,Shirring ,egg
+515,eggs,2,1,Tempering ,egg
+516,albumin,1,1,Boiling ,albumin
+517,effects,1,1,Boiling ,effect
+518,effects,1,1,Pressure Cooking ,effect
+519,effects,1,1,Scalding ,effect
+520,agitation,1,1,Boiling ,agitation
+521,vessel,1,1,Boiling ,vessel
+522,vessel,2,1,Pressure Cooking ,vessel
+523,vessel,3,1,Steaming ,vessel
+524,cook,1,1,Boiling ,cook
+525,cook,1,1,Cockaigne ,cook
+526,cook,2,1,Deep Frying ,cook
+527,cook,1,1,Deep Frying ,cook
+528,cook,1,1,Deglazing ,cook
+529,cook,1,1,Frying ,cook
+530,cook,1,1,Poaching ,cook
+531,cook,1,1,Pressure Cooking ,cook
+532,cook,1,1,Roasting ,cook
+533,cook,4,1,Sauteing ,cook
+534,cook,2,1,Simmering ,cook
+535,cook,3,1,Smoking ,cook
+536,cook,1,1,Stewing ,cook
+537,cook,1,1,Tempering ,cook
+538,altitudes,1,1,Boiling ,altitudes
+539,weather,1,1,Boiling ,weather
+540,altitude,1,1,Boiling ,altitude
+541,altitude,1,1,Pressure Cooking ,altitude
+542,temperatures,1,1,Boiling ,temperature
+543,temperatures,3,1,Deep Frying ,temperature
+544,temperatures,4,1,Grilling ,temperature
+545,temperatures,1,1,Sauteing ,temperature
+546,temperatures,3,1,Scalding ,temperature
+547,temperatures,1,1,Smoking ,temperature
+548,temperatures,1,1,Sous Vide ,temperature
+549,temperatures,1,1,Tempering ,temperature
+550,world,1,1,Boiling ,world
+551,parts,1,1,Boiling ,parts
+552,parts,1,1,Cockaigne ,parts
+553,parts,1,1,Deep Frying ,parts
+554,parts,1,1,Grilling ,parts
+555,cereals,1,1,Boiling ,cereals
+556,substances,1,1,Boiling ,substances
+557,substances,2,1,Deep Frying ,substances
+558,shape,1,1,Boiling ,shape
+559,shape,1,1,Grilling ,shape
+560,utensil,1,1,Boiling ,utensil
+561,tendency,1,1,Boiling ,tendency
+562,tendency,1,1,Smoking ,tendency
+563,evaporation,1,1,Boiling ,evaporation
+564,evaporation,2,1,Clay Pot ,evaporation
+565,evaporation,2,1,Stewing ,evaporation
+566,sauces,1,1,Boiling ,sauce
+567,sauces,1,1,Deglazing ,sauce
+568,form,1,1,Boiling ,form
+569,form,1,1,Deglazing ,form
+570,form,2,1,Grilling ,form
+571,form,1,1,Pressure Cooking ,form
+572,form,1,1,Scalding ,form
+573,form,3,1,Smoking ,form
+574,form,2,1,Stewing ,form
+575,causes,1,1,Boiling ,causes
+576,causes,1,1,Deep Frying ,causes
+577,kettle,1,1,Boiling ,kettle
+578,kind,1,1,Boiling ,kind
+579,mind,1,1,Boiling ,mind
+580,rapidity,1,1,Boiling ,rapidity
+581,influence,1,1,Boiling ,influence
+582,factors,1,1,Boiling ,factors
+583,fire,1,1,Boiling ,fire
+584,fire,6,1,Deep Frying ,fire
+585,fire,2,1,Grilling ,fire
+586,fire,1,1,Roasting ,fire
+587,fire,2,1,Smoking ,fire
+588,gas,1,1,Boiling ,gas
+589,gas,1,1,Grilling ,gas
+590,gas,1,1,Smoking ,gas
+591,stove,1,1,Boiling ,stove
+592,stove,1,1,Stewing ,stove
+593,conditions,1,1,Boiling ,conditions
+594,conditions,2,1,Grilling ,conditions
+595,conditions,1,1,Smoking ,conditions
+596,conditions,1,1,Sous Vide ,conditions
+597,recipes,1,1,Boiling ,recipe
+598,recipes,1,1,Deep Frying ,recipe
+599,recipes,1,1,Grilling ,recipe
+600,recipes,1,1,Pressure Cooking ,recipe
+601,recipes,1,1,Sauteing ,recipe
+602,recipes,1,1,Sauteing ,recipe
+603,recipes,1,1,Scalding ,recipe
+604,recipes,1,1,Steaming ,recipe
+605,clay pot cooking,2,3,Clay Pot ,clay pot cooking
+606,unglazed clay pot,2,3,Clay Pot ,unglazed clay pot
+607,french clay pot,1,3,Clay Pot ,french clay pot
+608,clay pot,2,2,Clay Pot ,clay pot
+609,cooking times,1,2,Clay Pot ,cooking times
+610,cooking times,1,2,Pressure Cooking ,cooking times
+611,clay pots,1,2,Clay Pot ,clay pot
+612,roman times,1,2,Clay Pot ,roman times
+613,release steam,1,2,Clay Pot ,release steam
+614,technique,2,1,Clay Pot ,technique
+615,technique,2,1,Clay Pot ,technique
+616,technique,3,1,Cockaigne ,technique
+617,technique,3,1,Cockaigne ,technique
+618,technique,2,1,Sauteing ,technique
+619,technique,2,1,Sauteing ,technique
+620,technique,1,1,Scalding ,technique
+621,technique,1,1,Scalding ,technique
+622,technique,4,1,Sous Vide ,technique
+623,technique,4,1,Sous Vide ,technique
+624,sautéing,1,1,Clay Pot ,saute
+625,sautéing,1,1,Frying ,saute
+626,sautéing,3,1,Sauteing ,saute
+627,sautéing,1,1,Sauteing ,saute
+628,soaps,1,1,Clay Pot ,soaps
+629,detergents,1,1,Clay Pot ,detergents
+630,leached,1,1,Clay Pot ,leached
+631,nutrients,1,1,Clay Pot ,nutrients
+632,scrubbing,1,1,Clay Pot ,scrubbing
+633,none,1,1,Clay Pot ,none
+634,methods,1,1,Clay Pot ,method
+635,methods,1,1,Simmering ,method
+636,dish,1,1,Clay Pot ,dish
+637,dish,1,1,Shirring ,dish
+638,dish,3,1,Stewing ,dish
+639,dish,3,1,Tempering ,dish
+640,tender,1,1,Clay Pot ,tender
+641,tender,1,1,Deep Frying ,tender
+642,tender,3,1,Simmering ,tender
+643,tender,1,1,Stewing ,tender
+644,releases,1,1,Clay Pot ,releases
+645,history,1,1,Clay Pot ,history
+646,dolbier,1,1,Clay Pot ,dolbier
+647,clay,1,1,Clay Pot ,clay
+648,chicken,8,1,Cockaigne ,chicken
+649,chicken,3,1,Deep Frying ,chicken
+650,chicken,1,1,Pressure Cooking ,chicken
+651,breasts,5,1,Cockaigne ,breast
+652,pan bottom,1,2,Cockaigne ,pan bottom
+653,pan bottom,1,2,Scalding ,pan bottom
+654,range,3,1,Cockaigne ,range
+655,range,3,1,Stir Frying ,range
+656,gas range,1,2,Cockaigne ,gas range
+657,uncooked side,1,2,Cockaigne ,uncooked side
+658,medium-high heat,1,2,Cockaigne ,medium-high heat
+659,chicken taste,1,2,Cockaigne ,chicken taste
+660,cooking chicken,1,2,Cockaigne ,cooking chicken
+661,medium heat,1,2,Cockaigne ,medium heat
+662,chicken breasts,1,2,Cockaigne ,chicken breasts
+663,olive oil,1,2,Cockaigne ,oil
+664,olive oil,1,2,Stir Frying ,oil
+665,chicken isn,1,2,Cockaigne ,chicken isn
+666,coat,2,1,Cockaigne ,coat
+667,burner,2,1,Cockaigne ,burner
+668,medium,2,1,Cockaigne ,medium
+669,medium,1,1,Sous Vide ,medium
+670,check,1,1,Cockaigne ,check
+671,minute,1,1,Cockaigne ,minute
+672,minute,1,1,Pressure Cooking ,minute
+673,minute,1,1,Stir Frying ,minute
+674,trivet,1,1,Cockaigne ,trivet
+675,counter,1,1,Cockaigne ,counter
+676,isn,1,1,Cockaigne ,isn
+677,middle,1,1,Cockaigne ,middle
+678,middle,1,1,Roasting ,middle
+679,pilot,1,1,Cockaigne ,pilot
+680,instant,1,1,Cockaigne ,instant
+681,thermometer,1,1,Cockaigne ,thermometer
+682,thermometer,1,1,Deep Frying ,thermometer
+683,thermometer,1,1,Poaching ,thermometer
+684,not,1,1,Cockaigne ,not
+685,center,1,1,Cockaigne ,center
+686,least,1,1,Cockaigne ,least
+687,return,1,1,Cockaigne ,return
+688,return,1,1,Smoking ,return
+689,countertop,1,1,Cockaigne ,countertop
+690,pin,1,1,Cockaigne ,pin
+691,pin,1,1,Pressure Cooking ,pin
+692,boneless,1,1,Cockaigne ,boneless
+693,thickness,1,1,Cockaigne ,thickness
+694,thickness,2,1,Smoking ,thickness
+695,points,1,1,Cockaigne ,points
+696,breast,1,1,Cockaigne ,breast
+697,cooks,1,1,Cockaigne ,cooks
+698,cooks,1,1,Sauteing ,cooks
+699,cooks,1,1,Simmering ,cooks
+700,cooks,1,1,Steaming ,cooks
+701,end,1,1,Cockaigne ,end
+702,end,2,1,Deep Frying ,end
+703,end,1,1,Grilling ,end
+704,end,1,1,Poaching ,end
+705,end,1,1,Scalding ,end
+706,end,2,1,Smoking ,end
+707,end,1,1,Sous Vide ,end
+708,object,1,1,Cockaigne ,object
+709,object,2,1,Grilling ,object
+710,purpose,1,1,Cockaigne ,purpose
+711,purpose,1,1,Grilling ,purpose
+712,purpose,1,1,Scalding ,purpose
+713,seasoning,1,1,Cockaigne ,seasoning
+714,recipe,1,1,Cockaigne ,recipe
+715,recipe,1,1,Sauteing ,recipe
+716,recipe,1,1,Scalding ,recipe
+717,pepper,1,1,Cockaigne ,pepper
+718,marinade,1,1,Cockaigne ,marinade
+719,marinade,1,1,Grilling ,marinade
+720,fryer,13,1,Deep Frying ,fryer
+721,fish,6,1,Deep Frying ,fish
+722,fish,1,1,Grilling ,fish
+723,fish,1,1,Poaching ,fish
+724,fish,22,1,Smoking ,fish
+725,fish,1,1,Steaming ,fish
+726,fish,1,1,Stewing ,fish
+727,chip pan fire,2,3,Deep Frying ,chip pan fire
+728,smoke point,4,2,Deep Frying ,smoke point
+729,fire blanket,4,2,Deep Frying ,fire blanket
+730,breading,6,1,Deep Frying ,breading
+731,breading,1,1,Deep Frying ,breading
+732,cooking oil fires,2,3,Deep Frying ,cooking oil fires
+733,water treatment plants,1,3,Deep Frying ,water treatment plants
+734,cook light-flavored food,1,3,Deep Frying ,cook light-flavored food
+735,fire department,3,2,Deep Frying ,fire department
+736,re-using oil opinions,1,3,Deep Frying ,oil
+737,egg roll recipe,1,3,Deep Frying ,egg roll recipe
+738,safety chip pans,1,3,Deep Frying ,safety chip pans
+739,crab cakes fat,1,3,Deep Frying ,crab cakes fat
+740,cooking oil recycling,1,3,Deep Frying ,cooking oil recycling
+741,rice bran oil,1,3,Deep Frying ,rice bran oil
+742,cooking oil fire,1,3,Deep Frying ,cooking oil fire
+743,pan deep fryers,1,3,Deep Frying ,pan deep fryers
+744,japanese oil solidifier,1,3,Deep Frying ,japanese oil solidifier
+745,metal range hood,1,3,Deep Frying ,metal range hood
+746,general cooking advice,1,3,Deep Frying ,general cooking advice
+747,oil cause splatters,1,3,Deep Frying ,oil cause splatters
+748,batter,5,1,Deep Frying ,batter
+749,jelly roll pan,1,3,Deep Frying ,jelly roll pan
+750,bird,4,1,Deep Frying ,bird
+751,fire extinguisher,2,2,Deep Frying ,fire extinguisher
+752,fries,4,1,Deep Frying ,fries
+753,chip pans,2,2,Deep Frying ,chip pans
+754,coconut oil,2,2,Deep Frying ,coconut oil
+755,burns,4,1,Deep Frying ,burns
+756,burns,2,1,Smoking ,burns
+757,fires,4,1,Deep Frying ,fires
+758,fires,1,1,Grilling ,fires
+759,cooking method,2,2,Deep Frying ,cooking method
+760,cooking method,1,2,Frying ,cooking method
+761,cooking method,1,2,Grilling ,cooking method
+762,cooking method,1,2,Poaching ,cooking method
+763,cooking method,2,2,Smoking ,cooking method
+764,class k,1,2,Deep Frying ,class k
+765,class k,1,2,Deep Frying ,class k
+766,class f,1,2,Deep Frying ,class f
+767,class f,1,2,Deep Frying ,class f
+768,next time,1,2,Deep Frying ,next time
+769,deep-frying parsley,1,2,Deep Frying ,deep-frying parsley
+770,warning sign,1,2,Deep Frying ,warning
+771,soogy foods,1,2,Deep Frying ,soogy foods
+772,kindling point,1,2,Deep Frying ,kindling point
+773,fire point,1,2,Deep Frying ,fire point
+774,smoke,3,1,Deep Frying ,smoking
+775,smoke,20,1,Smoking ,smoking
+776,wide-mouth jars,1,2,Deep Frying ,jars
+777,others claim,1,2,Deep Frying ,others claim
+778,clothes,3,1,Deep Frying ,clothes
+779,drink alcohol,1,2,Deep Frying ,drink alcohol
+780,wine bottles,1,2,Deep Frying ,wine
+781,filter oil,1,2,Deep Frying ,filter oil
+782,oil fire,1,2,Deep Frying ,oil fire
+783,½ hour,1,2,Deep Frying ,timing
+784,fire extinguishers,1,2,Deep Frying ,fire extinguishers
+785,ice crystals,1,2,Deep Frying ,ice crystals
+786,fry potatoes,1,2,Deep Frying ,fry potatoes
+787,sewers problems,1,2,Deep Frying ,sewers problems
+788,paper salt,1,2,Deep Frying ,paper salt
+789,immersing food,1,2,Deep Frying ,immersing food
+790,optionally pepper,1,2,Deep Frying ,optionally pepper
+791,dipping sauce,1,2,Deep Frying ,dipping sauce
+792,use cornmeal,1,2,Deep Frying ,use cornmeal
+793,fish recipe,1,2,Deep Frying ,fish recipe
+794,heavy-flavored foods,1,2,Deep Frying ,heavy-flavored foods
+795,foods flavor,1,2,Deep Frying ,foods flavor
+796,dry food,1,2,Deep Frying ,dry food
+797,baking soda,1,2,Deep Frying ,baking soda
+798,pieces briefly,1,2,Deep Frying ,pieces briefly
+799,contrast textures,1,2,Deep Frying ,contrast textures
+800,oil changes,1,2,Deep Frying ,oil changes
+801,measure oil,1,2,Deep Frying ,measure oil
+802,turkey fryer,1,2,Deep Frying ,turkey fryer
+803,advice,3,1,Deep Frying ,advice
+804,milk containers,1,2,Deep Frying ,milk containers
+805,breading sticks,1,2,Deep Frying ,breading sticks
+806,united states,1,2,Deep Frying ,united states
+807,united states,1,2,Deglazing ,united states
+808,japan forks,1,2,Deep Frying ,japan forks
+809,turkey,3,1,Deep Frying ,turkey
+810,contact,3,1,Deep Frying ,contact
+811,contact,2,1,Grilling ,contact
+812,contact,2,1,Smoking ,contact
+813,contact,1,1,Sous Vide ,contact
+814,certain classes,1,2,Deep Frying ,certain classes
+815,roast potatoes,1,2,Deep Frying ,roast potatoes
+816,tea strainer,1,2,Deep Frying ,tea strainer
+817,stores airtight,1,2,Deep Frying ,storage
+818,use water,1,2,Deep Frying ,use water
+819,oil ejects,1,2,Deep Frying ,oil ejects
+820,hot dogs,1,2,Deep Frying ,hot dogs
+821,onion family,1,2,Deep Frying ,onion family
+822,cooled oil,1,2,Deep Frying ,cooled oil
+823,wire cage,1,2,Deep Frying ,wire
+824,oil water,1,2,Deep Frying ,oil
+825,kitchen paper,1,2,Deep Frying ,kitchen paper
+826,egg rolls,1,2,Deep Frying ,egg rolls
+827,samosas dough,1,2,Deep Frying ,samosas dough
+828,safety tips,1,2,Deep Frying ,safety
+829,candy bars,1,2,Deep Frying ,candy bars
+830,bread sticks,1,2,Deep Frying ,bread sticks
+831,fire brigade,1,2,Deep Frying ,fire brigade
+832,chip pan,1,2,Deep Frying ,chip pan
+833,oil disposal,1,2,Deep Frying ,oil disposal
+834,tortilla chips,1,2,Deep Frying ,tortilla chips
+835,house fires,1,2,Deep Frying ,house fires
+836,re-use oil,1,2,Deep Frying ,oil
+837,minced mixtures,1,2,Deep Frying ,minced mixtures
+838,kitchen fires,1,2,Deep Frying ,kitchen fires
+839,chips vegetables,1,2,Deep Frying ,chips vegetables
+840,oysters poultry,1,2,Deep Frying ,oysters poultry
+841,oil fires,1,2,Deep Frying ,oil fire
+842,white fish,1,2,Deep Frying ,fish
+843,cooking oil,1,2,Deep Frying ,cooking oil
+844,cooking oil,1,2,Frying ,cooking oil
+845,east asia,1,2,Deep Frying ,east asia
+846,change oil,1,2,Deep Frying ,change oil
+847,peanut oil,1,2,Deep Frying ,peanut oil
+848,food cook,1,2,Deep Frying ,food cook
+849,sunflower oils,1,2,Deep Frying ,oil
+850,use utensils,1,2,Deep Frying ,use utensils
+851,metal utensils,1,2,Deep Frying ,metal utensils
+852,suitable oils,1,2,Deep Frying ,oil
+853,method deep,1,2,Deep Frying ,method deep
+854,safflower oil,1,2,Deep Frying ,oil
+855,fryers,2,1,Deep Frying ,fryer
+856,filter,2,1,Deep Frying ,filter
+857,quantities,2,1,Deep Frying ,quantity
+858,beer,2,1,Deep Frying ,beer
+859,beer,1,1,Stewing ,beer
+860,chopsticks,2,1,Deep Frying ,chopsticks
+861,oils,2,1,Deep Frying ,oil
+862,oils,1,1,Stir Frying ,oil
+863,oils,1,1,Tempering ,oil
+864,cause,2,1,Deep Frying ,cause
+865,tips,2,1,Deep Frying ,tips
+866,tips,1,1,Poaching ,tips
+867,tips,1,1,Sauteing ,tips
+868,tips,1,1,Stir Frying ,tips
+869,disposal,2,1,Deep Frying ,disposal
+870,tempura,2,1,Deep Frying ,tempura
+871,poultry,2,1,Deep Frying ,poultry
+872,poultry,3,1,Smoking ,poultry
+873,fight,2,1,Deep Frying ,fight
+874,step,2,1,Deep Frying ,step
+875,step,1,1,Scalding ,step
+876,step,2,1,Smoking ,step
+877,skin,2,1,Deep Frying ,skin
+878,skin,1,1,Scalding ,skin
+879,skin,2,1,Smoking ,skin
+880,extinguisher,2,1,Deep Frying ,extinguisher
+881,potatoes,2,1,Deep Frying ,potatoes
+882,potatoes,1,1,Deep Frying ,potatoes
+883,potatoes,1,1,Pressure Cooking ,potatoes
+884,potatoes,1,1,Steaming ,potatoes
+885,shrimp,2,1,Deep Frying ,shrimp
+886,hands,2,1,Deep Frying ,hands
+887,fry,2,1,Deep Frying ,fry
+888,watch,1,1,Deep Frying ,watch
+889,spatters,1,1,Deep Frying ,spatters
+890,locations,1,1,Deep Frying ,locations
+891,pipes,1,1,Deep Frying ,pipes
+892,odors,1,1,Deep Frying ,odor
+893,decreases,1,1,Deep Frying ,decreases
+894,suggestions,1,1,Deep Frying ,suggestions
+895,suggestions,1,1,Deep Frying ,suggestions
+896,restaurant,1,1,Deep Frying ,restaurant
+897,store,1,1,Deep Frying ,storage
+898,store,1,1,Deep Frying ,storage
+899,biodiesel,1,1,Deep Frying ,biodiesel
+900,yogurt,1,1,Deep Frying ,yogurt
+901,yogurt,1,1,Scalding ,yogurt
+902,yogurt,2,1,Tempering ,yogurt
+903,mayonnaise,1,1,Deep Frying ,mayonnaise
+904,optionally,1,1,Deep Frying ,optionally
+905,fats,1,1,Deep Frying ,fats
+906,dispose,1,1,Deep Frying ,dispose
+907,drain,1,1,Deep Frying ,drain
+908,months,1,1,Deep Frying ,months
+909,lard,1,1,Deep Frying ,lard
+910,crisco,1,1,Deep Frying ,crisco
+911,fridge,1,1,Deep Frying ,fridge
+912,non-deep,1,1,Deep Frying ,non-deep
+913,sanitation,1,1,Deep Frying ,sanitation
+914,container,1,1,Deep Frying ,container
+915,container,1,1,Smoking ,container
+916,container,2,1,Tempering ,container
+917,deep,1,1,Deep Frying ,deep
+918,deep,1,1,Frying ,deep
+919,performance,1,1,Deep Frying ,performance
+920,dough,1,1,Deep Frying ,dough
+921,seafood,1,1,Deep Frying ,seafood
+922,seafood,1,1,Deep Frying ,seafood
+923,squid,1,1,Deep Frying ,squid
+924,clams,1,1,Deep Frying ,fish
+925,scallops,1,1,Deep Frying ,scallops
+926,crisps,1,1,Deep Frying ,crisps
+927,allium,1,1,Deep Frying ,allium
+928,onions,1,1,Deep Frying ,onion
+929,onions,1,1,Deglazing ,onion
+930,onions,2,1,Sauteing ,onion
+931,bread-wrapped,1,1,Deep Frying ,bread-wrapped
+932,principle,1,1,Deep Frying ,principle
+933,principle,1,1,Tempering ,principle
+934,dumplings,1,1,Deep Frying ,dumplings
+935,empanadas,1,1,Deep Frying ,empanadas
+936,croutons,1,1,Deep Frying ,croutons
+937,noodles,1,1,Deep Frying ,noodles
+938,croquettes,1,1,Deep Frying ,croquettes
+939,cheese,1,1,Deep Frying ,cheese
+940,fritters,1,1,Deep Frying ,fritters
+941,twinkies,1,1,Deep Frying ,twinkies
+942,beef,1,1,Deep Frying ,beef
+943,beef,2,1,Smoking ,beef
+944,beef,1,1,Sous Vide ,beef
+945,lamb,1,1,Deep Frying ,lamb
+946,over-cooking,1,1,Deep Frying ,over-cooking
+947,soup,1,1,Deep Frying ,soup
+948,spices,1,1,Deep Frying ,spices
+949,spices,1,1,Grilling ,spices
+950,spices,1,1,Smoking ,spices
+951,spices,2,1,Tempering ,spices
+952,wedge,1,1,Deep Frying ,wedge
+953,lemon,1,1,Deep Frying ,lemon
+954,croûtons,1,1,Deep Frying ,croutons
+955,salad,1,1,Deep Frying ,salad
+956,combination,1,1,Deep Frying ,combination
+957,combination,1,1,Grilling ,combination
+958,combination,1,1,Smoking ,combination
+959,sound,1,1,Deep Frying ,sound
+960,napkins,1,1,Deep Frying ,napkins
+961,drinks-wise,1,1,Deep Frying ,drinks-wise
+962,tea,1,1,Deep Frying ,tea
+963,drinks,1,1,Deep Frying ,drinks
+964,pair,1,1,Deep Frying ,pair
+965,tannic,1,1,Deep Frying ,tannic
+966,wines,1,1,Deep Frying ,wine
+967,briefly,1,1,Deep Frying ,briefly
+968,parsley,1,1,Deep Frying ,parsley
+969,wires,1,1,Deep Frying ,wire
+970,weeks,1,1,Deep Frying ,week
+971,handling,1,1,Deep Frying ,handling
+972,warning,1,1,Deep Frying ,warning
+973,space,1,1,Deep Frying ,space
+974,sides,1,1,Deep Frying ,sides
+975,sides,2,1,Stir Frying ,sides
+976,spider,1,1,Deep Frying ,spider
+977,manipulation,1,1,Deep Frying ,manipulation
+978,flames,1,1,Deep Frying ,flames
+979,flames,1,1,Grilling ,flames
+980,shelving,1,1,Deep Frying ,shelving
+981,children,1,1,Deep Frying ,children
+982,europe,1,1,Deep Frying ,europe
+983,tight-fitting,1,1,Deep Frying ,tight-fitting
+984,splatters,1,1,Deep Frying ,splatter 
+985,mechanics,1,1,Deep Frying ,mechanics
+986,shirts,1,1,Deep Frying ,shirts
+987,denim,1,1,Deep Frying ,denim
+988,saris,1,1,Deep Frying ,saris
+989,heating,1,1,Deep Frying ,heating
+990,measures,1,1,Deep Frying ,measures
+991,house,1,1,Deep Frying ,house
+992,efforts,1,1,Deep Frying ,efforts
+993,disaster,1,1,Deep Frying ,disaster
+994,smoking,1,1,Deep Frying ,smoking
+995,smoking,8,1,Smoking ,smoking
+996,smoking,1,1,Smoking ,smoking
+997,hand,1,1,Deep Frying ,hand
+998,hand,1,1,Grilling ,hand
+999,holiday,1,1,Deep Frying ,holiday
+1000,coating,1,1,Deep Frying ,coating
+1001,coating,1,1,Frying ,coating
+1002,coating,1,1,Stir Frying ,coating
+1003,effect,1,1,Deep Frying ,effect
+1004,effect,1,1,Grilling ,effect
+1005,effect,1,1,Scalding ,effect
+1006,effect,2,1,Stewing ,effect
+1007,course,1,1,Deep Frying ,course
+1008,course,1,1,Simmering ,course
+1009,amounts,1,1,Deep Frying ,amounts
+1010,content,1,1,Deep Frying ,content
+1011,content,1,1,Grilling ,content
+1012,increase,1,1,Deep Frying ,increase
+1013,increase,2,1,Tempering ,increase
+1014,simulation,1,1,Deep Frying ,simulation
+1015,caution,1,1,Deep Frying ,caution
+1016,uk,1,1,Deep Frying ,uk
+1017,hazard,1,1,Deep Frying ,hazard
+1018,trade,1,1,Deep Frying ,trade
+1019,dangers,1,1,Deep Frying ,dangers
+1020,tip,1,1,Deep Frying ,tip
+1021,thermometers,1,1,Deep Frying ,thermometer
+1022,familiarizing,1,1,Deep Frying ,familiarizing
+1023,operation,1,1,Deep Frying ,operation
+1024,denser,1,1,Deep Frying ,denser
+1025,vaporizes,1,1,Deep Frying ,vaporizes
+1026,splattering,1,1,Deep Frying ,splatter 
+1027,boilover,1,1,Deep Frying ,boilover
+1028,fireball,1,1,Deep Frying ,fireball
+1029,frying,1,1,Deep Frying ,frying
+1030,frying,2,1,Frying ,frying
+1031,pre-cut,1,1,Deep Frying ,pre-cut
+1032,week,1,1,Deep Frying ,week
+1033,light,1,1,Deep Frying ,light
+1034,light,1,1,Smoking ,light
+1035,overcrowding,1,1,Deep Frying ,overcrowding
+1036,product,1,1,Deep Frying ,product
+1037,product,1,1,Poaching ,product
+1038,product,7,1,Smoking ,product
+1039,product,1,1,Stewing ,product
+1040,storage,1,1,Deep Frying ,storage
+1041,storage,1,1,Sous Vide ,storage
+1042,batch,1,1,Deep Frying ,batch
+1043,fryings,1,1,Deep Frying ,frying
+1044,growth,1,1,Deep Frying ,growth
+1045,breakdown,1,1,Deep Frying ,breakdown
+1046,compounds,1,1,Deep Frying ,compounds
+1047,refrigeration,1,1,Deep Frying ,refrigeration
+1048,refrigeration,1,1,Smoking ,refrigeration
+1049,discard,1,1,Deep Frying ,discard
+1050,smell,1,1,Deep Frying ,smell
+1051,order,1,1,Deep Frying ,order
+1052,order,1,1,Poaching ,order
+1053,order,1,1,Stir Frying ,order
+1054,usefulness,1,1,Deep Frying ,usefulness
+1055,system,1,1,Deep Frying ,system
+1056,muslin,1,1,Deep Frying ,muslin
+1057,everything,1,1,Deep Frying ,everything
+1058,bit,1,1,Deep Frying ,bit
+1059,bit,2,1,Smoking ,bit
+1060,rule,1,1,Deep Frying ,rule
+1061,rule,1,1,Sauteing ,rule
+1062,thumb,1,1,Deep Frying ,thumb
+1063,temperture,1,1,Deep Frying ,temperature
+1064,service,1,1,Deep Frying ,service
+1065,tongs,1,1,Deep Frying ,tongs
+1066,need,1,1,Deep Frying ,need
+1067,need,1,1,Steaming ,need
+1068,care,1,1,Deep Frying ,care
+1069,over-filled,1,1,Deep Frying ,over-filled
+1070,thaw,1,1,Deep Frying ,thaw
+1071,deep-frying,1,1,Deep Frying ,deep-frying
+1072,deep-frying,1,1,Frying ,deep-frying
+1073,caps,1,1,Deep Frying ,caps
+1074,microwave,1,1,Deep Frying ,microwave
+1075,microwave,1,1,Pressure Cooking ,microwave
+1076,deep-fat,1,1,Deep Frying ,deep-fat
+1077,don,1,1,Deep Frying ,don
+1078,basket,1,1,Deep Frying ,basket
+1079,seconds,1,1,Deep Frying ,seconds
+1080,refrigerating,1,1,Deep Frying ,refrigerating
+1081,pan-searing,1,1,Deep Frying ,pan-searing
+1082,instance,1,1,Deep Frying ,instance
+1083,roast,1,1,Deep Frying ,roast
+1084,roast,1,1,Roasting ,roast
+1085,powder,1,1,Deep Frying ,powder
+1086,buttermilk,1,1,Deep Frying ,buttermilk
+1087,cornstarch,1,1,Deep Frying ,cornstarch
+1088,cornstarch,1,1,Deglazing ,cornstarch
+1089,flour,1,1,Deep Frying ,flour
+1090,flour,1,1,Deglazing ,flour
+1091,salmon,1,1,Deep Frying ,fish
+1092,salmon,1,1,Smoking ,fish
+1093,salmon,1,1,Smoking ,fish
+1094,pan sauce,3,2,Deglazing ,pan sauce
+1095,pan sauce,1,2,Sauteing ,pan sauce
+1096,sauce,4,1,Deglazing ,sauce
+1097,sauce,1,1,Sauteing ,sauce
+1098,sauce,1,1,Smoking ,sauce
+1099,sauce,3,1,Stewing ,sauce
+1100,food residue,1,2,Deglazing ,food residue
+1101,sautéed meats,1,2,Deglazing ,saute
+1102,food bits,1,2,Deglazing ,food bits
+1103,meat stock,1,2,Deglazing ,meat stock
+1104,meat juices,1,2,Deglazing ,meat juices
+1105,base,2,1,Deglazing ,base
+1106,base,1,1,Stewing ,base
+1107,addition,2,1,Deglazing ,addition
+1108,addition,1,1,Smoking ,addition
+1109,addition,2,1,Tempering ,addition
+1110,cornerstone,1,1,Deglazing ,cornerstone
+1111,gravies,1,1,Deglazing ,gravies
+1112,deglazing,1,1,Deglazing ,deglaze
+1113,deglazing,1,1,Deglazing ,deglaze
+1114,deglazing,1,1,Sauteing ,deglaze
+1115,shallots,1,1,Deglazing ,shallots
+1116,ingredients,1,1,Deglazing ,ingredients
+1117,ingredients,2,1,Sauteing ,ingredients
+1118,ingredients,1,1,Scalding ,ingredients
+1119,ingredients,2,1,Smoking ,ingredients
+1120,ingredients,1,1,Smoking ,ingredients
+1121,ingredients,1,1,Stir Frying ,ingredients
+1122,carrots,1,1,Deglazing ,carrots
+1123,celery,1,1,Deglazing ,celery
+1124,starch,1,1,Deglazing ,starch
+1125,starch,1,1,Stewing ,starch
+1126,arrowroot,1,1,Deglazing ,arrowroot
+1127,arrowroot,1,1,Stewing ,arrowroot
+1128,aromatics,1,1,Deglazing ,aromatics
+1129,term,1,1,Deglazing ,term
+1130,term,2,1,Grilling ,term
+1131,term,1,1,Poaching ,term
+1132,flavouring,1,1,Deglazing ,flavouring
+1133,beverage,1,1,Deglazing ,beverage
+1134,residue,1,1,Deglazing ,residue
+1135,sauteing,1,1,Deglazing ,saute 
+1136,skillet,1,1,Deglazing ,skillet
+1137,majority,1,1,Deglazing ,majority
+1138,vegetable,1,1,Deglazing ,vegetable
+1139,wine,1,1,Deglazing ,wine
+1140,wine,1,1,Sauteing ,wine
+1141,wine,1,1,Smoking ,wine
+1142,wine,1,1,Stewing ,wine
+1143,act,1,1,Deglazing ,action
+1144,act,1,1,Tempering ,action
+1145,scrape,1,1,Deglazing ,scrape
+1146,spots,1,1,Deglazing ,spots
+1147,material,1,1,Deglazing ,material
+1148,french,1,1,Deglazing ,french
+1149,french,1,1,Sauteing ,french
+1150,french,1,1,Sous Vide ,french
+1151,foundation,1,1,Deglazing ,foundation
+1152,reduction,1,1,Deglazing ,reduction
+1153,stir-frying sautéing,1,2,Frying ,stir-frying sautéing
+1154,transfer heat,1,2,Frying ,transfer heat
+1155,forms,1,1,Frying ,form
+1156,forms,2,1,Stewing ,form
+1157,immersion,1,1,Frying ,immersion
+1158,grilling,8,1,Grilling ,grilling
+1159,grilling,8,1,Grilling ,grilling
+1160,grilling,1,1,Grilling ,grilling
+1161,grilling,1,1,Grilling ,grilling
+1162,grilling,1,1,Smoking ,grilling
+1163,grilling,1,1,Smoking ,grilling
+1164,heat source,6,2,Grilling ,heat source
+1165,heat source,4,2,Smoking ,heat source
+1166,grill,7,1,Grilling ,grill
+1167,grill,2,1,Smoking ,grill
+1168,low-heat cooking process,1,3,Grilling ,low-heat cooking process
+1169,sandwich cooking device,1,3,Grilling ,sandwich cooking device
+1170,heating element cooks,1,3,Grilling ,heating element cooks
+1171,infra-red radiation works,1,3,Grilling ,infra-red radiation works
+1172,infra-red heat radiation,1,3,Grilling ,infra-red heat radiation
+1173,high-heat cooking process,1,3,Grilling ,high-heat cooking process
+1174,british english usage,1,3,Grilling ,british english usage
+1175,barbecue sauce,2,2,Grilling ,barbecue sauce
+1176,barbecue grills,1,2,Grilling ,barbecue grills
+1177,gas ovens,1,2,Grilling ,gas ovens
+1178,rays spread,1,2,Grilling ,rays spread
+1179,smoke flavor,1,2,Grilling ,smoking
+1180,other meanings,1,2,Grilling ,other meanings
+1181,moisture content,1,2,Grilling ,moisture content
+1182,distance,3,1,Grilling ,distance
+1183,mushrooms grill,1,2,Grilling ,mushrooms grill
+1184,propane fires,1,2,Grilling ,propane fires
+1185,browning browning,1,2,Grilling ,browning browning
+1186,european ovens,1,2,Grilling ,european ovens
+1187,sugar caramelises,1,2,Grilling ,sugar
+1188,carbohydrate part,1,2,Grilling ,carbohydrate part
+1189,room radiator,1,2,Grilling ,room radiator
+1190,sugar content,1,2,Grilling ,sugar
+1191,double-sided frying,1,2,Grilling ,double-sided frying
+1192,waffle iron,1,2,Grilling ,waffle iron
+1193,heating element,1,2,Grilling ,heating element
+1194,gas flame,1,2,Grilling ,gas flame
+1195,tender items,1,2,Grilling ,tender
+1196,wood fire,1,2,Grilling ,fire
+1197,veal escalopes,1,2,Grilling ,veal escalopes
+1198,infra-red waves,1,2,Grilling ,infra-red waves
+1199,infra-red waves,1,2,Grilling ,infra-red waves
+1200,microwave radiation,1,2,Grilling ,microwave radiation
+1201,tender meat,1,2,Grilling ,tender
+1202,tough cuts,1,2,Grilling ,tough cuts
+1203,grill bars,1,2,Grilling ,grill bars
+1204,cheese sandwich,1,2,Grilling ,cheese sandwich
+1205,infra-red radiation,1,2,Grilling ,infra-red radiation
+1206,grilling cooks,1,2,Grilling ,grilling cooks
+1207,charcoal grill,1,2,Grilling ,charcoal grill
+1208,light ones,1,2,Grilling ,light ones
+1209,marinated meats,1,2,Grilling ,marinated meats
+1210,coffee beans,1,2,Grilling ,coffee beans
+1211,square bumps,1,2,Grilling ,square bumps
+1212,areas,2,1,Grilling ,area
+1213,barbecuing,2,1,Grilling ,barbecue
+1214,barbecuing,2,1,Grilling ,barbecuing
+1215,barbecuing,2,1,Grilling ,barbecue
+1216,barbecuing,2,1,Grilling ,barbecuing
+1217,car,2,1,Grilling ,car
+1218,charcoal,2,1,Grilling ,charcoal
+1219,charcoal,2,1,Smoking ,charcoal
+1220,centre,2,1,Grilling ,centre
+1221,conduction,2,1,Grilling ,conduction
+1222,energy,2,1,Grilling ,energy
+1223,colour,2,1,Grilling ,color
+1224,colour,5,1,Stewing ,color
+1225,colour,1,1,Stewing ,color
+1226,sun,2,1,Grilling ,sun
+1227,person,2,1,Grilling ,person
+1228,person,1,1,Scalding ,person
+1229,degree,2,1,Grilling ,degree
+1230,degree,1,1,Smoking ,degree
+1231,rack,2,1,Grilling ,rack
+1232,tray,1,1,Grilling ,tray
+1233,barbecue,1,1,Grilling ,barbecue
+1234,barbecue,1,1,Grilling ,barbecue
+1235,barbecue,2,1,Smoking ,barbecue
+1236,door,1,1,Grilling ,door
+1237,drawer,1,1,Grilling ,drawer
+1238,maple,1,1,Grilling ,maple
+1239,event,1,1,Grilling ,event
+1240,rub,1,1,Grilling ,rub
+1241,applewood,1,1,Grilling ,applewood
+1242,mesquite,1,1,Grilling ,mesquite
+1243,hickory,1,1,Grilling ,hickory
+1244,fruitwoods,1,1,Grilling ,fruitwoods
+1245,hardwoods,1,1,Grilling ,hardwoods
+1246,wood,1,1,Grilling ,wood
+1247,wood,6,1,Smoking ,wood
+1248,radiation,1,1,Grilling ,radiation
+1249,burning-wood,1,1,Grilling ,burning-wood
+1250,charcoals,1,1,Grilling ,charcoal
+1251,stacks,1,1,Grilling ,stacks
+1252,grills,1,1,Grilling ,grill
+1253,choice,1,1,Grilling ,choice
+1254,choice,1,1,Smoking ,choice
+1255,choice,1,1,Sous Vide ,choice
+1256,british,1,1,Grilling ,british
+1257,glow,1,1,Grilling ,glow
+1258,nuts,1,1,Grilling ,nuts
+1259,toast,1,1,Grilling ,toast
+1260,mechanism,1,1,Grilling ,mechanism
+1261,browns,1,1,Grilling ,browns
+1262,doneness,1,1,Grilling ,doneness
+1263,doneness,1,1,Sauteing ,doneness
+1264,directions,1,1,Grilling ,directions
+1265,source,1,1,Grilling ,source
+1266,sunlight,1,1,Grilling ,sunlight
+1267,stage,1,1,Grilling ,stage
+1268,stage,1,1,Stewing ,stage
+1269,hotplate,1,1,Grilling ,hotplate
+1270,summer,1,1,Grilling ,summer
+1271,shirt,1,1,Grilling ,shirt
+1272,infra-red,1,1,Grilling ,infra-red
+1273,preheated,1,1,Grilling ,preheated
+1274,element,1,1,Grilling ,element
+1275,element,1,1,Scalding ,element
+1276,element,1,1,Sous Vide ,element
+1277,cookery,1,1,Grilling ,cookery
+1278,frenchman,1,1,Grilling ,frenchman
+1279,broiling,1,1,Grilling ,broiling
+1280,slices,1,1,Grilling ,slices
+1281,procedure,1,1,Grilling ,procedure
+1282,gelatin,1,1,Grilling ,gelatin
+1283,tissue,1,1,Grilling ,tissue
+1284,steaks,1,1,Grilling ,steaks
+1285,steaks,2,1,Smoking ,steaks
+1286,joints,1,1,Grilling ,joints
+1287,control,1,1,Grilling ,control
+1288,control,1,1,Smoking ,control
+1289,quality,1,1,Grilling ,quality
+1290,quality,1,1,Tempering ,quality
+1291,under-cooked,1,1,Grilling ,under-cooked
+1292,area,1,1,Grilling ,area
+1293,move,1,1,Grilling ,move
+1294,rate,1,1,Grilling ,rate
+1295,rate,1,1,Stewing ,rate
+1296,speed,1,1,Grilling ,speed
+1297,difference,1,1,Grilling ,difference
+1298,surfaces,1,1,Grilling ,surfaces
+1299,egg,4,1,Poaching ,egg
+1300,egg,1,1,Smoking ,egg
+1301,place egg,1,2,Poaching ,place egg
+1302,delicate foods,1,2,Poaching ,delicate foods
+1303,french term,1,2,Poaching ,french term
+1304,crack egg,1,2,Poaching ,crack egg
+1305,egg protein,1,2,Poaching ,egg protein
+1306,shell,2,1,Poaching ,shell
+1307,firm,2,1,Poaching ,firm
+1308,hole,1,1,Poaching ,hole
+1309,hole,1,1,Pressure Cooking ,hole
+1310,hole,1,1,Smoking ,hole
+1311,streamers,1,1,Poaching ,streamers
+1312,pushpin,1,1,Poaching ,pushpin
+1313,drop,1,1,Poaching ,drop
+1314,drop,1,1,Sauteing ,drop
+1315,vinegar,1,1,Poaching ,vinegar
+1316,splash,1,1,Poaching ,splash
+1317,touch,1,1,Poaching ,touch
+1318,touch,1,1,Smoking ,touch
+1319,poaching,1,1,Poaching ,poaching
+1320,gauge,1,1,Poaching ,gauge
+1321,frisonne,1,1,Poaching ,frisonne
+1322,stock,1,1,Poaching ,stock
+1323,stock,1,1,Sauteing ,stock
+1324,stock,4,1,Stewing ,stock
+1325,milk,1,1,Poaching ,milk
+1326,milk,6,1,Scalding ,milk
+1327,juice,1,1,Poaching ,juice
+1328,juice,2,1,Roasting ,juice
+1329,sweetbread,1,1,Poaching ,sweetbread
+1330,pre-cooking,1,1,Poaching ,pre-cooking
+1331,pressure cooker,3,2,Pressure Cooking ,pressure cooker
+1332,rubber ring seal,1,3,Pressure Cooking ,rubber ring seal
+1333,pressure cooking,1,2,Pressure Cooking ,pressure cooking
+1334,pressure cookers,1,2,Pressure Cooking ,pressure cooker
+1335,cooking time,1,2,Pressure Cooking ,cooking time
+1336,release mechanism,1,2,Pressure Cooking ,release mechanism
+1337,rubber seal,1,2,Pressure Cooking ,rubber seal
+1338,melting-point alloy,1,2,Pressure Cooking ,melting-point alloy
+1339,steam pressure,1,2,Pressure Cooking ,steam pressure
+1340,safety limit,1,2,Pressure Cooking ,safety
+1341,point increases,1,2,Pressure Cooking ,point increases
+1342,pressure increases,1,2,Pressure Cooking ,pressure increases
+1343,minutes,2,1,Pressure Cooking ,minute
+1344,minutes,1,1,Sous Vide ,minute
+1345,cooker,2,1,Pressure Cooking ,cooker
+1346,beans,1,1,Pressure Cooking ,beans
+1347,beans,1,1,Simmering ,beans
+1348,feature,1,1,Pressure Cooking ,feature
+1349,release,1,1,Pressure Cooking ,release
+1350,countries,1,1,Pressure Cooking ,countries
+1351,task,1,1,Pressure Cooking ,task
+1352,plug,1,1,Pressure Cooking ,plug
+1353,braising,1,1,Pressure Cooking ,braising
+1354,periods,1,1,Pressure Cooking ,period
+1355,cabbage,1,1,Pressure Cooking ,cabbage
+1356,factor,1,1,Pressure Cooking ,factor
+1357,stopper,1,1,Pressure Cooking ,stopper
+1358,features,1,1,Pressure Cooking ,features
+1359,meat returns,1,2,Roasting ,meat returns
+1360,roasted foods,1,2,Roasting ,roasted foods
+1361,roasting environment,1,2,Roasting ,roasting environment
+1362,high-heat baking,1,2,Roasting ,high-heat baking
+1363,un-rested meat,1,2,Roasting ,un-rested meat
+1364,roasting temperature,1,2,Roasting ,roasting temperature
+1365,rest,1,1,Roasting ,rest
+1366,rest,1,1,Sauteing ,rest
+1367,edges,1,1,Roasting ,edges
+1368,distribution,1,1,Roasting ,distribution
+1369,variation,1,1,Roasting ,variation
+1370,slice,1,1,Roasting ,slice
+1371,roasts,1,1,Roasting ,roasts
+1372,roasts,1,1,Tempering ,roasts
+1373,spit-roasting,1,1,Roasting ,spit-roasting
+1374,period,1,1,Roasting ,period
+1375,period,1,1,Smoking ,period
+1376,drier,1,1,Roasting ,drier
+1377,bolognese meat sauce,1,3,Sauteing ,bolognese meat sauce
+1378,yogurt black-eyed peas,1,3,Sauteing ,yogurt
+1379,cooking food doesn,1,3,Sauteing ,cooking food doesn
+1380,pollo baked lamb,1,3,Sauteing ,pollo baked lamb
+1381,garlic,4,1,Sauteing ,garlic
+1382,garlic,1,1,Sauteing ,garlic
+1383,garlic,1,1,Smoking ,garlic
+1384,fingertips vaporise,1,2,Sauteing ,fingertips vaporise
+1385,fruit juices,1,2,Sauteing ,fruit juices
+1386,non-stick pans,1,2,Sauteing ,non-stick  
+1387,water hisses,1,2,Sauteing ,water hisses
+1388,heat cooking,1,2,Sauteing ,heat cooking
+1389,pan drippings,1,2,Sauteing ,pan drippings
+1390,onion,3,1,Sauteing ,onion
+1391,sautéing cuts,1,2,Sauteing ,saute
+1392,proper technique,1,2,Sauteing ,proper technique
+1393,french word,1,2,Sauteing ,french word
+1394,vin eggplant,1,2,Sauteing ,vin eggplant
+1395,english equivalent,1,2,Sauteing ,english equivalent
+1396,sautéing arroz,1,2,Sauteing ,saute
+1397,sautéed,2,1,Sauteing ,saute
+1398,bits,2,1,Sauteing ,bits
+1399,sauté,2,1,Sauteing ,saute
+1400,sauté,1,1,Sauteing ,saute
+1401,gold,2,1,Sauteing ,gold
+1402,deglaze,1,1,Sauteing ,deglaze
+1403,spirits,1,1,Sauteing ,spirits
+1404,flavorings,1,1,Sauteing ,flavorings
+1405,pungency,1,1,Sauteing ,pungency
+1406,results,1,1,Sauteing ,results
+1407,results,5,1,Smoking ,results
+1408,results,2,1,Stir Frying ,results
+1409,preparations,1,1,Sauteing ,preparations
+1410,type,1,1,Sauteing ,type
+1411,type,1,1,Stewing ,type
+1412,action,1,1,Sauteing ,action
+1413,people,1,1,Sauteing ,people
+1414,stir-frying,1,1,Sauteing ,stir-frying
+1415,stir-frying,4,1,Stir Frying ,stir-frying
+1416,stir-frying,1,1,Stir Frying ,stir-frying
+1417,variations,1,1,Sauteing ,variation
+1418,variations,1,1,Smoking ,variation
+1419,guidelines,1,1,Sauteing ,guidelines
+1420,mise,1,1,Sauteing ,mise
+1421,cushion,1,1,Sauteing ,cushion
+1422,ingredient,1,1,Sauteing ,ingredient
+1423,ingredient,1,1,Smoking ,ingredient
+1424,ingredient,1,1,Tempering ,ingredient
+1425,path,1,1,Sauteing ,path
+1426,thing,1,1,Sauteing ,thing
+1427,times,1,1,Sauteing ,time
+1428,stages,1,1,Sauteing ,stage
+1429,chance,1,1,Sauteing ,chance
+1430,chance,1,1,Sous Vide ,chance
+1431,many pathogens,1,2,Scalding ,many pathogens
+1432,tips care,1,2,Scalding ,tips
+1433,proteins refold,1,2,Scalding ,proteins refold
+1434,whey separation,1,2,Scalding ,whey separation
+1435,end product,1,2,Scalding ,end product
+1436,surface evaporation,1,2,Scalding ,surface evaporation
+1437,scorched milk,1,2,Scalding ,scorched milk
+1438,cooking eggs,1,2,Scalding ,cooking eggs
+1439,temperature range,1,2,Scalding ,temperature
+1440,temperature range,1,2,Smoking ,temperature
+1441,tea bag,1,2,Scalding ,tea bag
+1442,sea level,1,2,Scalding ,sea level
+1443,brew tea,1,2,Scalding ,brew tea
+1444,milk proteins,1,2,Scalding ,milk proteins
+1445,solids,2,1,Scalding ,solids
+1446,matrix,1,1,Scalding ,matrix
+1447,cup,1,1,Scalding ,cup
+1448,cup,1,1,Smoking ,cup
+1449,protein,1,1,Scalding ,protein
+1450,sugar,1,1,Scalding ,sugar
+1451,sugar,3,1,Smoking ,sugar
+1452,bread,1,1,Scalding ,bread
+1453,bread,1,1,Steaming ,bread
+1454,analogy,1,1,Scalding ,analogy
+1455,crumb,1,1,Scalding ,crumb
+1456,scalding,1,1,Scalding ,scalding
+1457,reasons,1,1,Scalding ,reason
+1458,suspension,1,1,Scalding ,suspension
+1459,boiler,1,1,Scalding ,boiler
+1460,scorch,1,1,Scalding ,scorch
+1461,frequent,1,1,Scalding ,frequent
+1462,purposes,1,1,Scalding ,purposes
+1463,purposes,1,1,Smoking ,purposes
+1464,chemical,1,1,Scalding ,chemical
+1465,changes,1,1,Scalding ,changes
+1466,enzymes,1,1,Scalding ,enzymes
+1467,pasteurization,1,1,Scalding ,pasteurization
+1468,baking technique,1,2,Shirring ,baking technique
+1469,shirring,1,1,Shirring ,shirring
+1470,yoke,1,1,Shirring ,egg
+1471,glass,1,1,Shirring ,glass
+1472,glass,1,1,Smoking ,glass
+1473,fuel,4,1,Simmering ,fuel
+1474,fuel,1,1,Smoking ,fuel
+1475,fuel,1,1,Steaming ,fuel
+1476,winter vegetables,1,2,Simmering ,vegetables
+1477,tough vegetables,1,2,Simmering ,tough vegetables
+1478,moves gently--never,1,2,Simmering ,moves gently--never
+1479,stewing,2,1,Simmering ,stewing
+1480,stewing,2,1,Stewing ,stewing
+1481,simmering,1,1,Simmering ,simmering
+1482,beets,1,1,Simmering ,beets
+1483,spring,1,1,Simmering ,spring
+1484,turnips,1,1,Simmering ,turnips
+1485,winter,1,1,Simmering ,winter
+1486,peas,1,1,Simmering ,peas
+1487,table,1,1,Simmering ,table
+1488,fowl,1,1,Simmering ,fowl
+1489,fowl,5,1,Smoking ,fowl
+1490,cuts,1,1,Simmering ,cuts
+1491,cuts,3,1,Stewing ,cuts
+1492,economy,1,1,Simmering ,economy
+1493,modification,1,1,Simmering ,modification
+1494,length,1,1,Simmering ,length
+1495,smoker,9,1,Smoking ,smoking
+1496,fowl pecan —,1,3,Smoking ,fowl pecan —
+1497,purpose apple —,1,3,Smoking ,purpose
+1498,fowl hickory —,1,3,Smoking ,fowl hickory —
+1499,ham mesquite —,1,3,Smoking ,ham mesquite —
+1500,heat sources gas,1,3,Smoking ,heat sources gas
+1501,meats peach —,1,3,Smoking ,meats peach —
+1502,fire smoking woods,1,3,Smoking ,fire smoking woods
+1503,cast iron pan,1,3,Smoking ,cast iron pan
+1504,seaweed — sharp,1,3,Smoking ,seaweed — sharp
+1505,smoker grill wood,1,3,Smoking ,smoking
+1506,salt smoking conditions,1,3,Smoking ,fish
+1507,utilize draft control,1,3,Smoking ,utilize draft control
+1508,full salt brines,1,3,Smoking ,full salt brines
+1509,coals,5,1,Smoking ,coals
+1510,smoking food,3,2,Smoking ,smoking
+1511,variations cooking foods,1,3,Smoking ,variation
+1512,smoking fish fish,1,3,Smoking ,smoking
+1513,salt brined fish,1,3,Smoking ,fish
+1514,brine solution,2,2,Smoking ,brine solution
+1515,metal mesh,2,2,Smoking ,metal mesh
+1516,wood chips,2,2,Smoking ,wood
+1517,heat sources,2,2,Smoking ,heat sources
+1518,pellicles formation,1,2,Smoking ,pellicles formation
+1519,process smoking,1,2,Smoking ,process smoking
+1520,smoke generator,1,2,Smoking ,smoking
+1521,preservation qualities,1,2,Smoking ,preservation qualities
+1522,many variations,1,2,Smoking ,many variations
+1523,old timers,1,2,Smoking ,old timers
+1524,furnace duct,1,2,Smoking ,furnace duct
+1525,brine,3,1,Smoking ,brine
+1526,cherry wood,1,2,Smoking ,cherry wood
+1527,smokey fire,1,2,Smoking ,smokey fire
+1528,filets,3,1,Smoking ,filets
+1529,sectioned steaks,1,2,Smoking ,sectioned steaks
+1530,whole fish,1,2,Smoking ,fish
+1531,warning warning,1,2,Smoking ,warning
+1532,oil content,1,2,Smoking ,oil content
+1533,clostridium botulinum,1,2,Smoking ,clostridium botulinum
+1534,botulism toxin,1,2,Smoking ,botulism toxin
+1535,smoke box,1,2,Smoking ,smoking
+1536,charcoal fires,1,2,Smoking ,charcoal fires
+1537,method works,1,2,Smoking ,method works
+1538,shelf life,1,2,Smoking ,shelf life
+1539,cold smoking,1,2,Smoking ,cold smoking
+1540,light bulb,1,2,Smoking ,light bulb
+1541,indirect heat,1,2,Smoking ,indirect heat
+1542,water briefly,1,2,Smoking ,water briefly
+1543,flare ups,1,2,Smoking ,flare ups
+1544,seasoning flavor,1,2,Smoking ,seasoning flavor
+1545,lake trout,1,2,Smoking ,lake trout
+1546,cooking cycle,1,2,Smoking ,cooking cycle
+1547,pellicles form,1,2,Smoking ,pellicles form
+1548,fish brine,1,2,Smoking ,fish brine
+1549,cast iron,1,2,Smoking ,cast iron
+1550,ember fire,1,2,Smoking ,ember fire
+1551,metal pan,1,2,Smoking ,metal pan
+1552,use steel,1,2,Smoking ,use steel
+1553,steel container,1,2,Smoking ,steel container
+1554,worcestershire sauce,1,2,Smoking ,sauces
+1555,soy sauce,1,2,Smoking ,soy sauce
+1556,paper towel,1,2,Smoking ,paper towel
+1557,quality thermometer,1,2,Smoking ,quality thermometer
+1558,metal tubing,1,2,Smoking ,metal tubing
+1559,poultry cedar,1,2,Smoking ,poultry cedar
+1560,meat doesn,1,2,Smoking ,meat doesn
+1561,grape —,1,2,Smoking ,grape —
+1562,fish bay,1,2,Smoking ,fish bay
+1563,materials smoker,1,2,Smoking ,materials smoker
+1564,fire smoke,1,2,Smoking ,fire smoke
+1565,smoker building,1,2,Smoking ,smoking
+1566,style barbecue,1,2,Smoking ,style barbecue
+1567,round ones,1,2,Smoking ,round ones
+1568,cherry —,1,2,Smoking ,cherry —
+1569,threat,2,1,Smoking ,threat
+1570,bark,2,1,Smoking ,bark
+1571,reason,2,1,Smoking ,reason
+1572,rinse,2,1,Smoking ,rinse
+1573,pork,2,1,Smoking ,pork
+1574,plate,2,1,Smoking ,plate
+1575,pipe,2,1,Smoking ,pipe
+1576,steel,2,1,Smoking ,steel
+1577,metal,2,1,Smoking ,metal
+1578,hour,2,1,Smoking ,hour
+1579,experience,1,1,Smoking ,experience
+1580,experience,1,1,Smoking ,experience
+1581,moistness,1,1,Smoking ,moistness
+1582,bacterium,1,1,Smoking ,bacterium
+1583,drip,1,1,Smoking ,drip
+1584,sampling,1,1,Smoking ,sampling
+1585,insure,1,1,Smoking ,insure
+1586,good,1,1,Smoking ,good
+1587,ham,1,1,Smoking ,ham
+1588,environment,1,1,Smoking ,environment
+1589,monitoring,1,1,Smoking ,monitor
+1590,dry,1,1,Smoking ,dry
+1591,hams,1,1,Smoking ,hams
+1592,others,1,1,Smoking ,others
+1593,basted,1,1,Smoking ,basted
+1594,safety,1,1,Smoking ,safety
+1595,elbows,1,1,Smoking ,elbows
+1596,sense,1,1,Smoking ,sense
+1597,issues,1,1,Smoking ,issues
+1598,dampers,1,1,Smoking ,dampers
+1599,works,1,1,Smoking ,work
+1600,tree,1,1,Smoking ,tree
+1601,products,1,1,Smoking ,products
+1602,bay,1,1,Smoking ,bay
+1603,barbequing,1,1,Smoking ,barbecue
+1604,refrigerate,1,1,Smoking ,refrigerate
+1605,position,1,1,Smoking ,position
+1606,aspect,1,1,Smoking ,aspect
+1607,complement,1,1,Smoking ,complement
+1608,preference,1,1,Smoking ,preference
+1609,attributes,1,1,Smoking ,attributes
+1610,propane,1,1,Smoking ,propane
+1611,chunks,1,1,Smoking ,chunks
+1612,convection,1,1,Smoking ,convection
+1613,chips,1,1,Smoking ,chips
+1614,hours,1,1,Smoking ,hours
+1615,hours,1,1,Sous Vide ,hours
+1616,botulism,1,1,Smoking ,botulism
+1617,botulism,1,1,Smoking ,botulism
+1618,drippings,1,1,Smoking ,drippings
+1619,igniting,1,1,Smoking ,igniting
+1620,cloth,1,1,Smoking ,cloth
+1621,piece,1,1,Smoking ,piece
+1622,grade,1,1,Smoking ,grade
+1623,gallon,1,1,Smoking ,gallon
+1624,solution,1,1,Smoking ,solution
+1625,mix,1,1,Smoking ,mix
+1626,mix,1,1,Stir Frying ,mix
+1627,effort,1,1,Smoking ,effort
+1628,wash,1,1,Smoking ,wash
+1629,rosemary,1,1,Smoking ,rosemary
+1630,ranges,1,1,Smoking ,ranges
+1631,ranges,1,1,Stir Frying ,ranges
+1632,monitor,1,1,Smoking ,monitor
+1633,prepare,1,1,Smoking ,prepare
+1634,dress,1,1,Smoking ,dress
+1635,trust,1,1,Smoking ,trust
+1636,suckers,1,1,Smoking ,suckers
+1637,globe,1,1,Smoking ,globe
+1638,trout,1,1,Smoking ,fish
+1639,whitefish,1,1,Smoking ,fish
+1640,eel,1,1,Smoking ,eel
+1641,fall,1,1,Smoking ,fall
+1642,tuna,1,1,Smoking ,fish
+1643,marlin,1,1,Smoking ,marlin
+1644,attach,1,1,Smoking ,attach
+1645,texture,1,1,Smoking ,texture
+1646,texture,1,1,Stewing ,texture
+1647,texture,1,1,Tempering ,texture
+1648,peppermint,1,1,Smoking ,peppermint
+1649,nutmeg,1,1,Smoking ,nutmeg
+1650,bitterness,1,1,Smoking ,bitterness
+1651,refrigerator,1,1,Smoking ,refrigerator
+1652,smelt,1,1,Smoking ,fish
+1653,bacon,1,1,Smoking ,bacon
+1654,odor,1,1,Smoking ,odor
+1655,pat,1,1,Smoking ,pat
+1656,lint,1,1,Smoking ,lint
+1657,racks,1,1,Smoking ,racks
+1658,chrome,1,1,Smoking ,chrome
+1659,membrane,1,1,Smoking ,membrane
+1660,humidity,1,1,Smoking ,humidity
+1661,plastic,1,1,Smoking ,plastic
+1662,part,1,1,Smoking ,part
+1663,molasses,1,1,Smoking ,molasses
+1664,sweeteners,1,1,Smoking ,sweeteners
+1665,many,1,1,Smoking ,many
+1666,cinnamon,1,1,Smoking ,cinnamon
+1667,chilies,1,1,Smoking ,chilies
+1668,dill,1,1,Smoking ,dill
+1669,aluminum,1,1,Smoking ,aluminum
+1670,oak,1,1,Smoking ,oak
+1671,modernist cooking movement,1,3,Sous Vide ,modernist  
+1672,other sealing methods,1,3,Sous Vide ,other sealing methods
+1673,water bath,3,2,Sous Vide ,water bath
+1674,immersion cooker temperature,1,3,Sous Vide ,immersion cooker temperature
+1675,relevent cooking chemistry,1,3,Sous Vide ,relevent cooking chemistry
+1676,immersion cooker,2,2,Sous Vide ,immersion cooker
+1677,water oven,2,2,Sous Vide ,water oven
+1678,water heater,1,2,Sous Vide ,water heater
+1679,water container,1,2,Sous Vide ,water container
+1680,immersion cooking,1,2,Sous Vide ,immersion cooking
+1681,price points,1,2,Sous Vide ,price points
+1682,cook steak,1,2,Sous Vide ,cook steak
+1683,web sites,1,2,Sous Vide ,web sites
+1684,right temperature,1,2,Sous Vide ,right temperature
+1685,peak times,1,2,Sous Vide ,peak times
+1686,immersion cookers,1,2,Sous Vide ,immersion cooker
+1687,cooking mistake,1,2,Sous Vide ,cooking mistake
+1688,temperature dependant,1,2,Sous Vide ,temperature
+1689,cooking properties,1,2,Sous Vide ,cooking properties
+1690,modernist chefs,1,2,Sous Vide ,modernist  
+1691,sous-vide cookbooks,1,2,Sous Vide ,sous-vide
+1692,steak condition,1,2,Sous Vide ,steak condition
+1693,amazon lists,1,2,Sous Vide ,amazon lists
+1694,zip-lock bags,1,2,Sous Vide ,storage
+1695,plastic bag,1,2,Sous Vide ,plastic bag
+1696,end restaurants,1,2,Sous Vide ,end restaurants
+1697,name sous-vide,1,2,Sous Vide ,sous-vide
+1698,temperature control,1,2,Sous Vide ,temperature
+1699,sealing food,1,2,Sous Vide ,sealing food
+1700,vaccum sealing,1,2,Sous Vide ,vaccum sealing
+1701,sous-vide,2,1,Sous Vide ,sous-vide
+1702,steak,2,1,Sous Vide ,steak
+1703,bag,1,1,Sous Vide ,bag
+1704,portions,1,1,Sous Vide ,portions
+1705,timing,1,1,Sous Vide ,timing
+1706,refridgerate,1,1,Sous Vide ,refridgerate
+1707,misnomer,1,1,Sous Vide ,misnomer
+1708,immersing,1,1,Sous Vide ,immersing
+1709,variety,1,1,Sous Vide ,variety
+1710,variety,1,1,Steaming ,variety
+1711,recipies,1,1,Sous Vide ,recipe
+1712,cost,1,1,Sous Vide ,cost
+1713,introduction,1,1,Sous Vide ,introduction
+1714,sort,1,1,Sous Vide ,sort
+1715,blender,1,1,Sous Vide ,blender
+1716,thermostat,1,1,Sous Vide ,thermometer
+1717,unit,1,1,Sous Vide ,unit
+1718,days,1,1,Sous Vide ,days
+1719,versions,1,1,Sous Vide ,versions
+1720,requirement,1,1,Sous Vide ,requirement
+1721,vaccum,1,1,Sous Vide ,vaccum
+1722,bengal potatoes mussels,1,3,Steaming ,bengal potatoes mussels
+1723,food substances,1,2,Steaming ,food substances
+1724,mineral salts,1,2,Steaming ,mineral salts
+1725,pudding mixtures,1,2,Steaming ,pudding mixtures
+1726,cooking utensil,1,2,Steaming ,cooking utensil
+1727,steaming,2,1,Steaming ,steam
+1728,steamer,2,1,Steaming ,steamer
+1729,cake,1,1,Steaming ,cake
+1730,diet,1,1,Steaming ,diet
+1731,artichoke,1,1,Steaming ,artichoke
+1732,cases,1,1,Steaming ,case
+1733,such,1,1,Steaming ,such
+1734,vessels,1,1,Steaming ,vessel
+1735,number,1,1,Steaming ,number
+1736,number,1,1,Tempering ,number
+1737,steamers,1,1,Steaming ,steamer
+1738,application,1,1,Steaming ,application
+1739,rice,1,1,Steaming ,rice
+1740,self basting process,1,3,Stewing ,self basting process
+1741,stew,4,1,Stewing ,stew
+1742,beurre manié,1,2,Stewing ,beurre manié
+1743,flavoursome liquor,1,2,Stewing ,flavoursome liquor
+1744,cooking period,1,2,Stewing ,cooking period
+1745,instances meats,1,2,Stewing ,instances meats
+1746,cooking results,1,2,Stewing ,cooking results
+1747,cooking vessel,1,2,Stewing ,cooking vessel
+1748,stock levels,1,2,Stewing ,stock
+1749,beef stew,1,2,Stewing ,beef stew
+1750,beef stock,1,2,Stewing ,beef stock
+1751,items need,1,2,Stewing ,items need
+1752,stewing vessel,1,2,Stewing ,stewing vessel
+1753,sauce whisking,1,2,Stewing ,sauce whisking
+1754,integral part,1,2,Stewing ,integral part
+1755,flavoured liquor,1,2,Stewing ,flavoured liquor
+1756,stewing meats,1,2,Stewing ,stewing meats
+1757,veloute sauce,1,2,Stewing ,veloute sauce
+1758,sealing,2,1,Stewing ,sealing
+1759,roux,2,1,Stewing ,roux
+1760,stews,1,1,Stewing ,stews
+1761,question,1,1,Stewing ,question
+1762,scum,1,1,Stewing ,scum
+1763,discolour,1,1,Stewing ,discolour
+1764,breaks,1,1,Stewing ,breaks
+1765,jus,1,1,Stewing ,jus
+1766,demi-glace,1,1,Stewing ,demi-glace
+1767,completion,1,1,Stewing ,completion
+1768,reboiling,1,1,Stewing ,reboiling
+1769,cornflour,1,1,Stewing ,cornflour
+1770,consistency,1,1,Stewing ,consistency
+1771,acts,1,1,Stewing ,action
+1772,juices,1,1,Stewing ,juices
+1773,aid,1,1,Stewing ,aid
+1774,agent,1,1,Stewing ,agent
+1775,agent,1,1,Tempering ,agent
+1776,flavoured,1,1,Stewing ,flavoured
+1777,extracts,1,1,Stewing ,extracts
+1778,condensation,1,1,Stewing ,condensation
+1779,margarine,1,1,Stewing ,margarine
+1780,fruit,1,1,Stewing ,fruit
+1781,seal,1,1,Stewing ,seal
+1782,mediums,1,1,Stewing ,mediums
+1783,wok,8,1,Stir Frying ,wok
+1784,flame heat source,1,3,Stir Frying ,flame heat source
+1785,example recipes,1,2,Stir Frying ,example recipes
+1786,cook meat,1,2,Stir Frying ,cook meat
+1787,non-stick coating,1,2,Stir Frying ,non-stick  
+1788,smoking point,1,2,Stir Frying ,smoking point
+1789,oil coverage,1,2,Stir Frying ,oil coverage
+1790,light oil,1,2,Stir Frying ,oil
+1791,gas works,1,2,Stir Frying ,gas works
+1792,slope-sided pan,1,2,Stir Frying ,slope-sided pan
+1793,preheat,1,1,Stir Frying ,preheat
+1794,heavy-bottomed,1,1,Stir Frying ,heavy-bottomed
+1795,drizzle,1,1,Stir Frying ,drizzle
+1796,drizzle,1,1,Tempering ,drizzle
+1797,pre-heat,1,1,Stir Frying ,pre-heat
+1798,medium-high,1,1,Stir Frying ,medium-high
+1799,sesame,1,1,Stir Frying ,sesame
+1800,different,1,1,Stir Frying ,different
+1801,recipe component,2,2,Tempering ,recipe
+1802,indian usage,1,2,Tempering ,indian usage
+1803,milk products,1,2,Tempering ,milk products
+1804,something acidic,1,2,Tempering ,acid
+1805,component,3,1,Tempering ,component
+1806,indian dishes,1,2,Tempering ,indian dishes
+1807,tadka dhal,1,2,Tempering ,tadka dhal
+1808,fry ingredients,1,2,Tempering ,fry ingredients
+1809,garnish,1,1,Tempering ,garnish
+1810,liberates,1,1,Tempering ,liberates
+1811,tadka,1,1,Tempering ,tadka
+1812,chaunk,1,1,Tempering ,chaunk
+1813,curdle,1,1,Tempering ,curdle
+1814,custards,1,1,Tempering ,custards
+1815,components,1,1,Tempering ,components
